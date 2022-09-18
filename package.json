@@ -8,6 +8,7 @@
     "index.js",
     "theme.js",
     "dist",
+    "src",
     "package.json",
     "tsconfig.json"
   ],
