@@ -1,3 +1,16 @@
+## tailwind preset
+
+A tailwind preset mostly focused spacing and typography.
+
+### Spacing
+
+Some defaults for spacing and font sizes that don't require memorizing the `m-1` scale and instead can use `m-4px`.
+
+See the [theme](https://github.com/alexanderchan/preset-tailwind/blob/main/src/theme.js)
+
+### Typography
+
+[typography](https://github.com/alexanderchan/preset-tailwind/blob/main/src/typography.js)
 ## Installation
 
 ```sh
