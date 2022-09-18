@@ -3,7 +3,9 @@
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "publish:patch": "npm version patch && npm publish"
+  },
   "files": [
     "index.js",
     "src",
