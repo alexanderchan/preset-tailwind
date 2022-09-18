@@ -1,7 +1,7 @@
 ## Installation
 
 ```sh
-yarn add -D @alexmchan/preset-tailwind
+yarn add -D @alexmchan/preset-tailwind @tailwindcss/typography
 ```
 
 example `tailwind.config.js` next config
