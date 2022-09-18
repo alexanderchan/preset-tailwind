@@ -1,0 +1,29 @@
+{
+  "name": "@alexmchan/preset-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "files": [
+    "index.js",
+    "theme.js",
+    "dist",
+    "package.json",
+    "tsconfig.json"
+  ],
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0",
+    "@tailwindcss/typography": ">=0.5.7"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/alexanderchan/preset-tailwind",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderchan/preset-tailwind.git"
+  }
+}
